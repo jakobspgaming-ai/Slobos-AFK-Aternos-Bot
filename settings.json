@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survival-SMP_JSP.aternos.me
-",
+    "ip": "Survival-SMP_JSP.aternos.me",
     "port": 35685,
     "version": "1.21.11",
     "try-creative": false
